@@ -1,6 +1,6 @@
 <h1>Sistema CRUD simples para gerenciamento de pacientes</h1>
 
-<h2>Funcionalidades Principais:</h2>
+<h3>Funcionalidades Principais:</h3>
 
 ✔️ **Cadastrar pacientes**
 
@@ -27,7 +27,7 @@ Animação de fade-out.*
 Adição automática dos pacientes retornados.*
 
   
-<h2>Dependências:</h2>
+<h3>Dependências:</h3>
 
 
 **body-parser** – leitura de JSON
@@ -42,7 +42,7 @@ Adição automática dos pacientes retornados.*
 
 2.npm  install  JSON-server
 
-**Abra o arquivo HTML**
+<h3>Abra o arquivo HTML</h3>
    
 1.index.html
 
