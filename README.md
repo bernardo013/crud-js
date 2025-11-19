@@ -1,7 +1,6 @@
-                                            + sistema CRUD simples para gerenciamento de pacientes+
+                                             sistema CRUD simples para gerenciamento de pacientes 
 
-
-**Funcionalidades Principais:**
+<h2>Funcionalidades Principais:</h2>
 
 ✔️ **Cadastrar pacientes**
 
@@ -27,8 +26,9 @@ Animação de fade-out.*
 *Requisição assíncrona com XMLHttpRequest em buscar-paciente.js.
 Adição automática dos pacientes retornados.*
 
+  
+<h2>Dependências:</h2>
 
-**Dependências**:
 
 **body-parser** – leitura de JSON
 
@@ -36,7 +36,7 @@ Adição automática dos pacientes retornados.*
 
 **pacientes.json** – arquivo para simular base de dados local.
 
-**Instale as dependências do node e a biblioteca para json-server para rodar a aplicação**
+<h3>Instale as dependências do node e a biblioteca para json-server para rodar a aplicação</h3>
 
 1.npm install
 
