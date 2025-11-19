@@ -1,4 +1,4 @@
-<h1>sistema CRUD simples para gerenciamento de pacientes</h1>
+<h1>Sistema CRUD simples para gerenciamento de pacientes</h1>
 
 <h2>Funcionalidades Principais:</h2>
 
