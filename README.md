@@ -28,7 +28,7 @@ Animação de fade-out.*
 Adição automática dos pacientes retornados.*
 
 
-Dependências:
+**Dependências**:
 
 **body-parser** – leitura de JSON
 
